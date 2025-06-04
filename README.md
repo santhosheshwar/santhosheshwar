@@ -1,4 +1,4 @@
-## Hi there I am Santhoshkumar👋
+## Hi I am Santhoshkumar👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhosheshwar&label=Profile%20views&color=0e75b6&style=flat" alt="santhoshkumar" /> </p>
 
@@ -38,7 +38,7 @@
       - DBMS             = [ MYSQL, MongoDB ]
 </body>
 
-# :star1: My Achievements
+# :star2: My Achievements
 
 - 🖇️ Leetcode : [https://www.codechef.com/users/santhoshr24](https://www.codechef.com/users/santhoshr24)
 
@@ -46,9 +46,9 @@
 
 - 🖇️ Hackerrank : [https://www.hackerrank.com/profile/santhoshkumar_75](https://www.hackerrank.com/profile/santhoshkumar_75)
 
-  - 🖇️ Coding Ninja ( Code 360 ) : [https://www.naukri.com/code360/profile/cdc18799-eb01-4ef1-9c51-e5f2bb3ac64a](https://www.naukri.com/code360/profile/cdc18799-eb01-4ef1-9c51-e5f2bb3ac64a)
+- 🖇️ Coding Ninja ( Code 360 ) : [https://www.naukri.com/code360/profile/cdc18799-eb01-4ef1-9c51-e5f2bb3ac64a](https://www.naukri.com/code360/profile/cdc18799-eb01-4ef1-9c51-e5f2bb3ac64a)
 
-  - 🖇️ Geeks for geeks : [https://www.geeksforgeeks.org/user/santhoshkum3es3/](https://www.geeksforgeeks.org/user/santhoshkum3es3/)
+ - 🖇️ Geeks for geeks : [https://www.geeksforgeeks.org/user/santhoshkum3es3/](https://www.geeksforgeeks.org/user/santhoshkum3es3/)
 
 
 # :star2: My Projects
