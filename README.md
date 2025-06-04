@@ -52,7 +52,7 @@
 
 
 # :star2: My Projects
-<details> 
+etails> 
   <summary> CONTACT HUB </summary>
     <ul> <li> Built a secure RESTful API with Node.js, Express, and MongoDB for contact management, featuring CRUD operations 
 and JWT-based authentication. Ensured robust error handling, structured routes, and efficient database interactions. </li> 
